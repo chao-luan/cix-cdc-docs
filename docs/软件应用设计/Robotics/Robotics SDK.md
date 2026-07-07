@@ -1,9 +1,3 @@
-
----
-
-## 3. `docs/软件应用设计/Robotics/Robotics SDK.md`
-
-```markdown
 # Robotics SDK
 
 Robotics SDK 是 CIX P1 平台机器人与边缘智能应用相关资源入口，面向机器人感知、控制、边缘 AI、多传感器融合和机器人应用开发等场景。
