@@ -1,4 +1,4 @@
-site_name: 此芯文档中心
+site_name: 此芯文档中心规划
 use_directory_urls: true
 
 theme:
@@ -31,25 +31,14 @@ nav:
   - 软件应用设计:
       - AI Model Hub: 软件应用设计/AI Model Hub.md
       - Multimedia: 软件应用设计/Multimedia.md
+      - PPA: 软件应用设计/PPA.md
       - Robotics:
           - Robotics SDK: 软件应用设计/Robotics/Robotics SDK.md
-      - PPA: 软件应用设计/PPA.md
   - 硬件参考设计:
       - 硬件设计资料: 硬件参考设计/硬件设计资料.md
   - 下载资料汇总:
       - 系统与手册资源: 下载资料汇总/系统与手册资源.md
-      - 固件: 下载资料汇总/系统与手册资源/固件.md
-      - OS: 下载资料汇总/系统与手册资源/OS.md
-      - AI: 下载资料汇总/系统与手册资源/AI.md
-      - Graphics: 下载资料汇总/系统与手册资源/Graphics.md
-      - Multimedia: 下载资料汇总/系统与手册资源/Multimedia.md
-      - 芯片手册: 下载资料汇总/系统与手册资源/芯片手册.md
       - 开发工具与SDK: 下载资料汇总/开发工具与SDK.md
-      - HIFI 5 DSP SDK: 下载资料汇总/开发工具SDK/HIFI 5 DSP SDK.md
-      - Multimedia SDK: 下载资料汇总/开发工具SDK/Multimedia SDK.md
-      - GO SDK: 下载资料汇总/开发工具SDK/GO SDK.md
-      - NeuralOne AI SDK: 下载资料汇总/开发工具SDK/NeuralOne AI SDK.md
-      - Robotics SDK: 下载资料汇总/开发工具SDK/Robotics SDK.md
 
 markdown_extensions:
   - admonition
