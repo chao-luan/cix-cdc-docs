@@ -44,8 +44,7 @@ BIOS 用于完成平台初始化、启动设备识别、系统引导以及部分
 ### 香橙派 OrangePi 6 Plus
 
 - [香橙派 OrangePi 6 Plus 平台入口](../开发平台/香橙派.md)
-- [OrangePi 6 Plus 官方产品页面](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-6-Plus.html)
-- [OrangePi 6 Plus 官方资源页面](https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-6-Plus.html)
+- [OrangePi 6 Plus 官方资源页面](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-6-Plus.html)
 
 ### 贝启平台
 
