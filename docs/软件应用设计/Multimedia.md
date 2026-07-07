@@ -1,9 +1,3 @@
-
----
-
-## 2. `docs/软件应用设计/Multimedia.md`
-
-```markdown
 # Multimedia
 
 Multimedia 是 CIX P1 平台多媒体软件开发相关资源入口，主要面向视频编解码、图像处理、Camera、Display、Audio、流媒体处理和多媒体应用开发等场景。
