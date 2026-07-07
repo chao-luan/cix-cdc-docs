@@ -1,8 +1,25 @@
 # 此芯文档中心规划
 
-本仓库用于放置此芯文档中心规划的 Markdown 文档结构，可直接上传 GitHub 后接入 Read the Docs。
+本仓库用于放置此芯文档中心规划的 Markdown 文档，可直接上传 GitHub 后接入 Read the Docs。
 
-已按原架构保留目录名称与导航名称，仅将 `NerualOne AI SDK` 修正为 `NeuralOne AI SDK`。
+当前文档结构已按仓库实际文件对齐：
+
+```text
+README.md
+mkdocs.yml
+.readthedocs.yaml
+requirements.txt
+docs/
+├── index.md
+├── assets/
+├── 芯片简介/
+├── 开发平台/
+├── 固件开发/
+├── 操作系统/
+├── 软件应用设计/
+├── 硬件参考设计/
+└── 下载资料汇总/
+```
 
 ## 本地预览
 
