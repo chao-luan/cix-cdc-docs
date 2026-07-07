@@ -1,8 +1,6 @@
-# 此芯文档中心规划
+# 此芯文档中心
 
 本仓库用于放置此芯文档中心规划的 Markdown 文档，可直接上传 GitHub 后接入 Read the Docs。
-
-当前文档结构已按仓库实际文件对齐：
 
 ```text
 README.md
