@@ -1,9 +1,3 @@
-
----
-
-## 4. `docs/软件应用设计/PPA.md`
-
-```markdown
 # PPA
 
 PPA 是 CIX P1 平台软件包和驱动部署相关资源入口，用于在 Debian 系统上快速安装和更新 CIX 平台相关 Kernel、驱动、固件和硬件加速组件。
