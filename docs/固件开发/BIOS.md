@@ -32,21 +32,21 @@ BIOS 用于完成平台初始化、启动设备识别、系统引导以及部分
 
 ### 瑞莎 Orion O6
 
-- [瑞莎 Orion O6 平台入口](../开发平台/瑞莎/官网平台.md)
+- [瑞莎 Orion O6 平台入口](../开发平台/瑞莎.md)
 - [Radxa Orion O6 官方产品页面](https://radxa.com/products/orion/o6/)
 - [Radxa Orion O6 下载资源页面](https://docs.radxa.com/en/orion/download)
 
 ### 美高铭凡 MS-R1
 
-- [美高铭凡 MS-R1 平台入口](../开发平台/美高/官网平台.md)
+- [美高铭凡 MS-R1 平台入口](../开发平台/美高.md)
 - [MINISFORUM MS-R1 官方资料页面](https://www.minisforum.com/zh/pages/product-info)
 
 ### 香橙派 OrangePi 6 Plus
 
-- [香橙派 OrangePi 6 Plus 平台入口](../开发平台/香橙派/官网平台.md)
+- [香橙派 OrangePi 6 Plus 平台入口](../开发平台/香橙派.md)
 - [OrangePi 6 Plus 官方产品页面](http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-6-Plus.html)
 - [OrangePi 6 Plus 官方资源页面](https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-Pi-6-Plus.html)
 
 ### 贝启平台
 
-- [贝启平台入口](../开发平台/贝启/官网平台.md)
+- [贝启平台入口](../开发平台/贝启.md)
