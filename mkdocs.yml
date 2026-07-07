@@ -12,21 +12,16 @@ nav:
       - 此芯P2简介: 芯片简介/此芯P2简介.md
       - 此芯P3简介: 芯片简介/此芯P3简介.md
   - 开发平台:
-      - 瑞莎:
-          - 官网平台: 开发平台/瑞莎/官网平台.md
-      - 美高:
-          - 官网平台: 开发平台/美高/官网平台.md
-      - 香橙派:
-          - 官网平台: 开发平台/香橙派/官网平台.md
-      - 贝启:
-          - 官网平台: 开发平台/贝启/官网平台.md
+      - 瑞莎: 开发平台/瑞莎.md
+      - 美高: 开发平台/美高.md
+      - 香橙派: 开发平台/香橙派.md
+      - 贝启: 开发平台/贝启.md
   - 固件开发:
       - BIOS: 固件开发/BIOS.md
       - 固件烧录:
           - 此芯P1:
               - 全镜像烧录: 固件开发/固件烧录/此芯P1/全镜像烧录.md
               - 待补充: 固件开发/固件烧录/此芯P1/待补充.md
-              - ...: 固件开发/固件烧录/此芯P1/省略.md
   - 操作系统:
       - Linux OS:
           - Linux Kernel: 操作系统/Linux OS/Linux Kernel.md
@@ -40,22 +35,21 @@ nav:
           - Robotics SDK: 软件应用设计/Robotics/Robotics SDK.md
       - PPA: 软件应用设计/PPA.md
   - 硬件参考设计:
-      - 硬件设计资料:
-          - 当前暂无: 硬件参考设计/硬件设计资料/当前暂无.md
+      - 硬件设计资料: 硬件参考设计/硬件设计资料.md
   - 下载资料汇总:
-      - 系统与手册资源:
-          - 固件: 下载资料汇总/系统与手册资源/固件.md
-          - OS: 下载资料汇总/系统与手册资源/OS.md
-          - AI: 下载资料汇总/系统与手册资源/AI.md
-          - Graphics: 下载资料汇总/系统与手册资源/Graphics.md
-          - Multimedia: 下载资料汇总/系统与手册资源/Multimedia.md
-          - 芯片手册: 下载资料汇总/系统与手册资源/芯片手册.md
-      - 开发工具SDK:
-          - HIFI 5 DSP SDK: 下载资料汇总/开发工具SDK/HIFI 5 DSP SDK.md
-          - Multimedia SDK: 下载资料汇总/开发工具SDK/Multimedia SDK.md
-          - GO SDK: 下载资料汇总/开发工具SDK/GO SDK.md
-          - NeuralOne AI SDK: 下载资料汇总/开发工具SDK/NeuralOne AI SDK.md
-          - Robotics SDK: 下载资料汇总/开发工具SDK/Robotics SDK.md
+      - 系统与手册资源: 下载资料汇总/系统与手册资源.md
+      - 固件: 下载资料汇总/系统与手册资源/固件.md
+      - OS: 下载资料汇总/系统与手册资源/OS.md
+      - AI: 下载资料汇总/系统与手册资源/AI.md
+      - Graphics: 下载资料汇总/系统与手册资源/Graphics.md
+      - Multimedia: 下载资料汇总/系统与手册资源/Multimedia.md
+      - 芯片手册: 下载资料汇总/系统与手册资源/芯片手册.md
+      - 开发工具与SDK: 下载资料汇总/开发工具与SDK.md
+      - HIFI 5 DSP SDK: 下载资料汇总/开发工具SDK/HIFI 5 DSP SDK.md
+      - Multimedia SDK: 下载资料汇总/开发工具SDK/Multimedia SDK.md
+      - GO SDK: 下载资料汇总/开发工具SDK/GO SDK.md
+      - NeuralOne AI SDK: 下载资料汇总/开发工具SDK/NeuralOne AI SDK.md
+      - Robotics SDK: 下载资料汇总/开发工具SDK/Robotics SDK.md
 
 markdown_extensions:
   - admonition
